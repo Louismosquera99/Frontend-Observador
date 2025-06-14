@@ -36,7 +36,7 @@ const App = () => {
   };
 
   return (
-    <Router>
+    <Router basename="/">
       <Routes>
         {/* Rutas públicas */}
         <Route path="/" element={<Home />} />
