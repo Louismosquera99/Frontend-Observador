@@ -3,7 +3,7 @@ import { useParams, useNavigate } from "react-router-dom";
 import axios from "axios";
 import { toast } from "react-toastify";
 import { FaEye, FaEyeSlash } from "react-icons/fa";
-import observador from "../assets/logoObservadorNegro.png";
+import observador from "../../public/logoObservadorNegro.png";
 
 const ResetPassword = () => {
   const { token } = useParams();
