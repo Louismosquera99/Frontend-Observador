@@ -1,5 +1,5 @@
 import { useEffect, useState } from "react";
-import observador from "../assets/logoObservadorNegro.png";
+import observador from "../../public/logoObservadorNegro.png";
 import { Link } from "react-router-dom";
 import { FaUserTie, FaFemale } from "react-icons/fa";
 

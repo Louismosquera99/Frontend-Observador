@@ -3,7 +3,7 @@ import { useNavigate, Link } from "react-router-dom";
 import axios from "axios";
 import { FaEye, FaEyeSlash } from "react-icons/fa";
 import { toast } from "react-toastify";
-import senaLogo from "../assets/logogreen.png";
+import senaLogo from "../../public/logoObservadorNegro.png";
 
 const Register = () => {
   const navigate = useNavigate();
