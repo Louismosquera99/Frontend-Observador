@@ -1,5 +1,5 @@
 import { Link } from "react-router-dom";
-import observador from "../assets/logoobservadornegro.png";
+import observador from "../../public/logoObservadorNegro.png";
 
 const NotFound = () => {
   return (
